@@ -19,8 +19,6 @@ An automated dashboard providing quick and latest sales insights in order to sup
 - Sales team able to take better decisions and prove 10% cost savings of total spend
 - Sales Analysts stop data gathering manually in order to save 20% of their business time and reinvest it in value added activity
 
-## *Link for Final Interactive Dashboard*
-[Sales Insights Interactive Dashboard](https://public.tableau.com/app/profile/hamza.aziz/viz/SalesInsights_16576291902270/SalesInsightsDashboard)
 
 **Note**: *Please see the caption in image for a brief description*
 
